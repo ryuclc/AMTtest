@@ -1,0 +1,20 @@
+zh_chapter2_6_cknightJ_105-de-0013	Das hättet ihr aber auch früher sagen können!
+zh_vo_DQAQ106_5_signora_05-de-0015	Mandate, die auf einer Direktwahl in diesem Sinn beruhen, werden Direktmandate genannt.
+zh_vo_EQHDJ403_22_hutaoyeye_02-de-0004	Die Kontrollverordnung ist vielleicht etwas kontroverser.
+zh_vo_ayaka_dialog_greetingNight-de-0003	Ich möchte auf drei Punkte eingehen, die meines Erachtens grundlegend sind.
+en_chapter2_12_qinwu_109-de-0034	International kam er zu Einsätzen für die Jugendnationalmannschaft.
+en_vo_YYWQ001_2_king_03-de-0024	Fred Berger kann endlich nach Deutschland heimkehren und seine Mutter in die Arme schließen.
+en_chapter1_2_spectatorA_201-de-0021	Das Häuschen steht auf grün-silber gemauertem runden Berg im Schildfuß.
+en_vo_ambient_w2_greeting_chunfen_102-de-0020	Abteilung des Artillerie-Regiments Schwerin.
+ja_chapter4_4_gongmin4_102-de-0044	Der dreifache Olympiasieger und sechsfache Weltmeister gehört zu den erfolgreichsten Sportlern seines Landes.
+ja_chapter0_3_staffL_102-de-0053	Momentan gebe es keine Beweise, sagt die Kommission.
+ja_vo_ARLQ002_2_lyney_29-de-0039	Zwischen den beiden entwickelt sich eine echte Freundschaft.
+ja_vo_DQAQ003_2_hiiragiShinsuke_02-de-0046	In der Rolle besaß sie einen Hund, der auf den Namen "Willy" hörte.
+ko_vo_dialog_DPEQ004_kokomi_02a_1-de-0068	Danach kam er nur noch bei den Amateuren zum Einsatz.
+ko_Side0_al_staffAB_112-de-0061	Man unterscheidet hier zwischen dem Miller- und dem Atkinson-Zyklus.
+ko_chapter3_36_sheyuanE_103-de-0055	Sie wird auch den Unternehmen helfen, sich im Wettbewerb zu behaupten.
+ko_chapter2_2_awang_102-de-0056	Morgen gehe ich zum Tierarzt und lasse meinen inneren Schweinehund einschläfern.
+common_voice_fr_37851954-de-0075	Es gelang ihm, aus dem Gefängnis zu entkommen und unterzutauchen.
+common_voice_fr_37817499-de-0083	In seiner Freizeit beschäftigte er sich mit Zeichnen und Malerei.
+common_voice_fr_39744976-de-0089	Auf der Feldseite war zum Schutz des Tores ein Blockhaus errichtet.
+common_voice_fr_39659399-de-0072	Frau Oomen-Ruijten, über diese Frage gibt es keine Diskussion.

@@ -1,0 +1,20 @@
+zh_vo_dialog_KLLQ003_klee_02-ko-0020	그래서 몽금포에 가서도 오래 있지 못하고 곧 올라왔던 것이다.
+zh_vo_SDEQ002_57_hitotsumekozou_01-ko-0018	그런 걸 별짓을 다해 가면서 억지루 시작을 했었지요.
+zh_vo_CNLQ001_10_jhuba_01-ko-0001	점심 뒤에 회원들은 잡담을 하며 잠시 쉬었다.
+zh_vo_tips_mimitomo_store_chubby_03-ko-0007	내가 하고 싶은 것도 알고 내가 해야 할 것도 아 네.
+en_vo_DQAQ106_5_signora_05-ko-0043	아침 댓바람에 그리 흉치 않은 일이었다.
+en_vo_KYCOP001_1908007_baiQiming_06-ko-0037	아마 붐비는 차 안에 짐이 크다 하여 차장에게 밀려 내려온 눈치였다.
+en_chapter2_5_gongshu_102-ko-0051	계획이라도 있어요?
+en_vo_KYCOP001_1908004_guangzhi_01-ko-0052	행복한 삶을 살기 위해 필요한 것은 거의 없다.
+ja_chapter2_7_echoF_102-ko-0083	네가 아무리 내 자식 내 자식 해도 아마 네 맘대로는 데려가지를 못하리라.
+ja_chapter3_39_student5_102-ko-0061	형제는 그 아버지의 시체 앞에 꿇어 엎드려 목을 놓고 울었습니다.
+ja_vo_dialog_LYAQ107_zhongli_02-ko-0075	그리고 아까 그의 아버지 가하던 말을 다시 곰곰이 생각하였다.
+ja_vo_card_yaeMiko_endOfGame_win_01-ko-0072	그는 이런 생각에 얼굴이 화끈 달았다.
+common_voice_de_39933489-ko-0092	아무도 춘우의 간 곳을 알지 못하였다.
+common_voice_de_27414241-ko-0112	은희는 여름밤 시원한 뒷동산에 어머니를 모시고 앉아서 늘 부르던 노래 생각이 났습니다.
+common_voice_de_27779082-ko-0111	시대처럼 올 아침을 기다리는 최후의 나
+common_voice_de_38206099-ko-0104	어떻게 무엇부터 시작을 해야 할는지 엄두가 나지를 않아서 잠을 잘 수가 없었다.
+common_voice_fr_37375708-ko-0139	예수교 신자인 원재는 대합실 문 밖에 가 꿇어 엎드려 정성껏 기도를 올리고 있다.
+common_voice_fr_37851954-ko-0123	그는 저 싸락눈을 보니 한층더 가슴이 죄어들었다.
+common_voice_fr_37637893-ko-0133	나도 사람이고 여자야, 알았니?
+common_voice_fr_38563338-ko-0129	해결도 없이, 감칠도화현이며 증육도화현을 범벅으로 섞어 놓았으면
