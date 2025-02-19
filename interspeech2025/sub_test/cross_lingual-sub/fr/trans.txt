@@ -1,0 +1,20 @@
+zh_vo_ambient_w2_greeting_baodating_101-fr-0016	C'est d'ailleurs Dieu qui à travers un ange incite Corneille à aller rencontrer Pierre.
+zh_vo_FDAQ304_7_audienceI_01-fr-0002	Eric Gex-Collet est l’actuel Directeur Général d’Eovi Mcd mutuelle.
+zh_vo_dialog_XQLQ002_sturdyWu_01-fr-0006	Arrivés sur place, ils furent tous victime d'illusions.
+zh_vo_EQHDJ403_22_hutaoyeye_02-fr-0004	Urrasun est situé dans la zone linguistique bascophone de Navarre.
+en_vo_FDAQ304_7_audienceI_01-fr-0027	Tel yacht coûte à son propriétaire cent mille francs par mois.
+en_vo_YYWQ001_2_king_03-fr-0024	Docteur en droit, diplômé de russe de l'École des langues orientales.
+en_chapter3_20_haixuan_104-fr-0035	Elle a consacré le pilote suisse Gabriele Gardel ainsi que l'équipe Vitaphone Racing Team.
+en_vo_DQAQ106_5_signora_05-fr-0031	Peu après, décision fut prise de bâtir la première église catholique de la ville.
+ja_chapter3_20_caipan_107-fr-0045	Les différentes épreuves sont le simple et double messieurs, simple et double dames.
+ja_vo_dialog_SHLQ003_shenhe_05-fr-0036	Malgré tout, il ne parvient pas avec son équipe à gagner un seul championnat.
+ja_vo_dialog_SHLQ003_qiqi_07-fr-0038	La plupart de ces citations ont été supprimées dans les versions ultérieures.
+ja_vo_ARLQ002_2_lyney_29-fr-0039	Elle a aussi su faire rire, avec une vingtaine de pièces pétillantes d’humour.
+ko_vo_dialog_DPEQ004_kokomi_02a_1-fr-0068	Les forces d'O'Neill provenaient des clans O'Neill, O'Donnell et de leurs vassaux.
+ko_Side1_nts1_patientH_101-fr-0062	Il est à l'origine constitué uniquement d'une piste d'athlétisme.
+ko_chapter3_1_tishi_105-fr-0063	Il y réside huit ans, avant de retrouver sa ville natale.
+ko_chapter3_36_sheyuanE_103-fr-0055	Son œuvre est fortement marquée par son engagement politique libéral.
+common_voice_de_39563715-fr-0077	Il emmena brusquement sa fille dans le jardin des Tuileries.
+common_voice_de_38134342-fr-0081	Les fleurs blanc jaune-verdâtre ou blanches se développent à l'aisselle des feuilles supérieures.
+common_voice_de_33020962-fr-0078	Il emploie à servir les Jéhovahs fourbus
+common_voice_de_26543744-fr-0085	Après ce prix, la médaille John-Bates-Clark est la récompense la plus prestigieuse en économie.

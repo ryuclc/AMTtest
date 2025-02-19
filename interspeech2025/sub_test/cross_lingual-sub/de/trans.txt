@@ -1,0 +1,20 @@
+zh_vo_ambient_w2_greeting_baodating_101-de-0016	Ein Fahrer auf einem Schneemobil mitten im Sprung während eines Rennens
+zh_vo_FDAQ304_7_audienceI_01-de-0002	Es ist die Landeshymne des österreichischen Bundeslandes Tirol.
+zh_vo_dialog_XQLQ002_sturdyWu_01-de-0006	Vor dem Einschlafen setzt sie stets ihre Zahnspange ein.
+zh_vo_EQHDJ403_22_hutaoyeye_02-de-0004	Die Kontrollverordnung ist vielleicht etwas kontroverser.
+en_vo_FDAQ304_7_audienceI_01-de-0027	Diese Kneipe ist wirklich legendär, schwärmt Claudia.
+en_vo_YYWQ001_2_king_03-de-0024	Fred Berger kann endlich nach Deutschland heimkehren und seine Mutter in die Arme schließen.
+en_chapter3_20_haixuan_104-de-0035	Das Schiff musste ein paar Stunden später aufgegeben werden und brannte völlig aus.
+en_vo_DQAQ106_5_signora_05-de-0031	In reinster Form ist das Oxid cremefarben bis hellgelb.
+ja_chapter3_20_caipan_107-de-0045	Die Umsteuerung erfolgte mit Schraube und Rad.
+ja_vo_dialog_SHLQ003_shenhe_05-de-0036	Der Morgen war von reichhaltigen poetischen Ergüssen geprägt.
+ja_vo_dialog_SHLQ003_qiqi_07-de-0038	Ziehe ich diese Schraube fest, ist das Geräusch weg.
+ja_vo_ARLQ002_2_lyney_29-de-0039	Zwischen den beiden entwickelt sich eine echte Freundschaft.
+ko_vo_dialog_DPEQ004_kokomi_02a_1-de-0068	Danach kam er nur noch bei den Amateuren zum Einsatz.
+ko_Side1_nts1_patientH_101-de-0062	Berichten zufolge vergiftete sie sich bei dem Einrücken der Roten Armee.
+ko_chapter3_1_tishi_105-de-0063	Das hellgrüne Kuppeldach wird von einer goldenen Kugel abgeschlossen.
+ko_chapter3_36_sheyuanE_103-de-0055	Sie wird auch den Unternehmen helfen, sich im Wettbewerb zu behaupten.
+common_voice_fr_38020701-de-0077	Vegetarier futtern den armen Tieren ihre Nahrung weg!
+common_voice_fr_38563338-de-0081	Ich unterstütze den Vorschlag von Herrn Wojciechowski.
+common_voice_fr_39568705-de-0078	Als Dichter und Publizist war er mit dem berühmten polnischen Dichter Adam Mickiewicz befreundet.
+common_voice_fr_37637893-de-0085	Im County liegt ein Teil des Craters of the Moon National Monuments.

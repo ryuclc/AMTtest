@@ -1,0 +1,20 @@
+zh_vo_dialog_KLLQ003_klee_02-en-0020	The irrigation system will be fixed within a week.
+zh_vo_dialog_XQLQ002_sturdyWu_01-en-0006	The more you read, the better you will be understood.
+zh_side0_rto_staffAS_102-en-0008	His father used to play Dholak at Radio Pakistan Hyderabad.
+zh_vo_EQHDJ403_22_hutaoyeye_02-en-0004	That's the day I'll have you guys take the test.
+ja_vo_dialog_LYAQ107_zhongli_02-en-0045	During that time, the first district elected its own representative.
+ja_vo_SGWLQ004_2_thewitch_06-en-0055	He enters the hotel room but finds that everyone already escaped.
+ja_chapter2_5_gongshu_102-en-0052	Urban neglect has been followed by private housing on former industrial land.
+ja_vo_EQHDJ403_22_hutaoyeye_02-en-0036	The two quickly covered the table with a towel when they noticed the officers.
+ko_chapter2_7_echoF_102-en-0070	In the final reunion film, Bionic Ever After?
+ko_side1_bwg_alix_108-en-0071	The city is the county seat of Spencer County.
+ko_vo_ambient_w2_greeting_baodating_101-en-0073	He has dual American and Danish citizenship, since his father is Danish.
+ko_vo_DCEQ001_4_xiangling_03-en-0076	I've never had one before, the merchant answered.
+common_voice_de_33020962-en-0096	The film was not a success at the box office.
+common_voice_de_39563715-en-0095	Services rendered to the Union by Marines under Harris were varied and many.
+common_voice_de_33470740-en-0107	This species, like many of the others in this family, resembles a long earthworm.
+common_voice_de_40114389-en-0093	Sooner or later, they'll find out how to read these hieroglyphics.
+common_voice_fr_37913554-en-0130	He wouldn't aid them in the insurance process.
+common_voice_fr_37962343-en-0145	Criticism centered on swing states such as Kentucky, Tennessee, Pennsylvania, and Maryland.
+common_voice_fr_39681039-en-0138	Soldier sitting on top of Jeep holding a machine gun and soldier sitting inside.
+common_voice_fr_39796058-en-0144	Mrs. Lewis was selected as the new commissioner.
